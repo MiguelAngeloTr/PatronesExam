@@ -1,6 +1,4 @@
-package Strategy.Context;
-
-import Strategy.InterfaceFiltros;
+package Strategy;
 
 class Imagen {
         private InterfaceFiltros filtro;

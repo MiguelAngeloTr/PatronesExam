@@ -1,6 +1,4 @@
-package Strategy.ConcreteStrategies;
-
-import Strategy.InterfaceFiltros;
+package Strategy;
 
 class AltoContrasteFiltro implements InterfaceFiltros {
     public void aplicarFiltros(String nombreImagen) {
